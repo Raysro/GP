@@ -12,6 +12,7 @@ public class Asteroid : MonoBehaviour
     public float maxSize = 1.5f;
     public float speed = 50f;
     public float maxLifetime = 20f;
+    
 
 
 
@@ -37,9 +38,14 @@ public class Asteroid : MonoBehaviour
         rb.AddForce(direction * speed);
         Destroy(gameObject, maxLifetime);
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D other)
     {
         Destroy(gameObject);
+        if(other.gameObject.tag == "Player")
+        {
+            FindObjectOfType<ShipMove>().Damage();
+        }
+
     }
 
 

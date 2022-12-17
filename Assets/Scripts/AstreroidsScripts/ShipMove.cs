@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class ShipMove : MonoBehaviour
 {
+    //hala wallah
     [SerializeField] float moveSpeed = 1f;
     [SerializeField] float rotationSpeed = 1f;
     [SerializeField] GameObject bulletPre;
+    [SerializeField] int lives=3;
     bool isMoving;
     float direction;
     Rigidbody2D rb;
@@ -52,5 +54,12 @@ public class ShipMove : MonoBehaviour
     {
         Instantiate(bulletPre, this.transform.position, this.transform.rotation);
         
+    }
+    
+    public void Damage()
+    {
+        lives--;
+        if(lives == 0)
+            Destroy(gameObject);
     }
 }

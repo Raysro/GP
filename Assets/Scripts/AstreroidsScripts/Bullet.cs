@@ -20,6 +20,10 @@ public class Bullet : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         Destroy(this.gameObject);
+        if(collision.gameObject.tag== "Asteroids")
+        {
+            FindObjectOfType<UIAsteroids>().UpdateScore(10);
+        }
     }
 
 }
