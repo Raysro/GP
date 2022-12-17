@@ -6,6 +6,7 @@ public class UIAsteroids : MonoBehaviour
 {
     public Text score;
     int Sp=0;
+    public GameObject[] livesSprite;
     private void Start()
     {
         score.text = "Score: " + Sp;
@@ -14,5 +15,15 @@ public class UIAsteroids : MonoBehaviour
     {
         Sp += points;
         score.text = "Score: " + Sp;
+    }
+    public void UpdateLives(int l)
+    {
+        if(l==2)
+            livesSprite[l].SetActive(false);
+        if (l == 1)
+            livesSprite[l].SetActive(false);
+        if (l == 0)
+            livesSprite[l].SetActive(false);
+
     }
 }

@@ -59,6 +59,7 @@ public class ShipMove : MonoBehaviour
     public void Damage()
     {
         lives--;
+        FindObjectOfType<UIAsteroids>().UpdateLives(lives);
         if(lives == 0)
             Destroy(gameObject);
     }
