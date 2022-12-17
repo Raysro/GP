@@ -472,7 +472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
-  rotationSpeed: 0.2
+  rotationSpeed: 0.1
   bulletPre: {fileID: 4810641869925122453, guid: 19e6d97ab7d7bea42b45b9e3c00b6bca, type: 3}
 --- !u!50 &1412399580
 Rigidbody2D:
