@@ -37,6 +37,7 @@ public class Move2 : MonoBehaviour
         {
             animator.SetBool("IsJump", false);
             animator.SetBool("ISMOVE", true);
+            player.gameObject.transform.localScale = new Vector3(1,1,1);
             player.velocity = new Vector2(direction * speed, player.velocity.y);
 
         }
@@ -44,7 +45,7 @@ public class Move2 : MonoBehaviour
         {
             animator.SetBool("IsJump", false);
             animator.SetBool("ISMOVE", true);
-
+            player.gameObject.transform.localScale = new Vector3(-1, 1, 1);
             player.velocity = new Vector2(direction * speed, player.velocity.y);
         }
         else
