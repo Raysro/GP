@@ -9,6 +9,7 @@ public class SnakeMove : MonoBehaviour
     public float Speed = 1f;
     int checky = 0;
     int checkx = 0;
+    int Lives = 3; 
 
     void Start()
     {
@@ -104,9 +105,11 @@ public class SnakeMove : MonoBehaviour
             Grow();
             FindObjectOfType <UISnakeGame>().UpdateScore();
         }
-        if (collision.tag == "Tail")
+        
+        if (collision.tag == "Posion")
         {
-            //Time.timeScale = 0f;
+            Lives--;
         }
+         
     }
 }

@@ -6,7 +6,10 @@ public class Food : MonoBehaviour
 {
     public BoxCollider2D grid;
 
-    
+    private void Update()
+    {
+     transform.Rotate(0,0,50f*Time.deltaTime);   
+    }
     void RandomizePosition()
     {
         Bounds bounds = grid.bounds;

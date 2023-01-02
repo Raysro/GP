@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class UIAsteroids : MonoBehaviour
 {
+    public GameObject square;
     public Text score;
     public int Sp =0;
     public GameObject[] livesSprite;
@@ -12,8 +13,17 @@ public class UIAsteroids : MonoBehaviour
     {
         score.text = "Score: " + Sp;
     }
+    private void Update()
+    {
+        
+            
+        square.transform.Translate(-40f * Time.deltaTime, 0, 0);
+        if(square.transform.position.x<= -200f)
+        Destroy(square);
+    }
     public void UpdateScore(int points)
     {
+        
         Sp += points;
         score.text = "Score: " + Sp;
         if (Sp == 50)
