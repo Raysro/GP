@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class SnakeMove : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class SnakeMove : MonoBehaviour
     int checky = 0;
     int checkx = 0;
     int Lives = 3; 
+    bool GO=false;
 
     void Start()
     {
@@ -108,8 +110,15 @@ public class SnakeMove : MonoBehaviour
         
         if (collision.tag == "Posion")
         {
+            
             Lives--;
+            if(Lives == 0)
+                GameOver();
         }
          
+    }
+    public void GameOver()
+    {
+        
     }
 }

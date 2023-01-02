@@ -5,7 +5,7 @@ using UnityEngine;
 public class Food : MonoBehaviour
 {
     public BoxCollider2D grid;
-
+    public int Id;
     private void Update()
     {
      transform.Rotate(0,0,50f*Time.deltaTime);   
