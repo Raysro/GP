@@ -4,77 +4,109 @@ using UnityEngine;
 
 public class SnakeMove : MonoBehaviour
 {
-    public Vector2 direction = Vector2.right;
-    List<Transform> Segments;
-    public Transform segmentPre;
+    List<Transform> SnakesT = new List<Transform>();
+    public Transform TailPrefabe;
+    public float Speed = 1f;
+    int checky = 0;
+    int checkx = 0;
 
-    private void Start()
+    void Start()
     {
-        Segments = new List<Transform>();
-        Segments.Add(this.transform);
+        SnakesT.Add(this.transform);
+        transform.position = Vector3.zero;
     }
-    void Update()
+
+
+    void FixedUpdate()
     {
+        for (int i = SnakesT.Count - 1; i > 0; i--)
+        {
+            SnakesT[i].position = SnakesT[i - 1].position;
+        }
+        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W))
+        {
+            checky = 1;
+            checkx = 0;
+        }
+        if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S))
+        {
+            checky = 2;
+            checkx = 0;
+        }
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+        {
+            checkx = 1;
+            checky = 0;
+        }
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+        {
+            checkx = 2;
+            checky = 0;
+        }
 
 
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
+        if (checky == 1)
         {
-            direction = Vector2.up;
+            transform.Translate(0, Speed * Time.deltaTime, 0);
         }
-        else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
+        if (checky == 2)
         {
-            direction = Vector2.down;
+            transform.Translate(0, -Speed * Time.deltaTime, 0);
         }
-
-        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
+        if (checkx == 1)
         {
-            direction = Vector2.right;
+            transform.Translate(-Speed * Time.deltaTime, 0, 0);
         }
-        else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
+        if (checkx == 2)
         {
-            direction = Vector2.left;
+            transform.Translate(Speed * Time.deltaTime, 0, 0);
         }
+        #region border
+        float x = transform.position.x;
+        float y = transform.position.y;
+        if (transform.position.y >= 13.5f)
+        {
+            transform.position = new Vector3(x, -13.5f, 0);
+        }
+        else if (transform.position.y <= -13.5f)
+        {
+            transform.position = new Vector3(x, 13.5f, 0);
+        }
+        x = transform.position.x;
+        y = transform.position.y;
+        if (transform.position.x >= 20f)
+        {
+            transform.position = new Vector3(-20f, y, 0);
+        }
+        else if (transform.position.x <= -20f)
+        {
+            transform.position = new Vector3(20f, y, 0);
+        }
+        #endregion
     }
-    private void FixedUpdate()
-    {
-        for(int i = Segments.Count - 1; i > 0 ; i--)
-        {
-            Segments[i].position = Segments[i - 1].position;
-        }
+   
 
-        transform.position = new Vector3(
-            Mathf.Round(transform.position.x) + direction.x,
-           Mathf.Round(transform.position.y) + direction.y,
-            0.0f);
-        if (transform.position.y >= 15.5f)
-        {
-            transform.position = new Vector3(transform.position.x, -15.5f, 0f);
-        }
-        else if (transform.position.y <= -15.5f)
-        {
-            transform.position = new Vector3(transform.position.x, 15.5f, 0f);
-        }
-        else if(transform.position.x >= 17f)
-        {
-            transform.position = new Vector3(-17f, transform.position.y, 0f);
-        }
-        else if(transform.position.x <= -17f)
-        {
-            transform.position = new Vector3(17f, transform.position.y, 0f);
-        }
-    }
 
     void Grow()
     {
-        Transform seg = Instantiate(segmentPre);
-        seg.position = Segments[Segments.Count - 1].position;
-        Segments.Add(seg);
+        Transform seg = Instantiate(TailPrefabe);
+        seg.position = SnakesT[SnakesT.Count - 1].position;
+        SnakesT.Add(seg);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Food")
         {
-            Grow(); 
+            Grow();
+            Grow();
+            Grow();
+            Grow();
+            Grow();
+            FindObjectOfType <UISnakeGame>().UpdateScore();
+        }
+        if (collision.tag == "Tail")
+        {
+            //Time.timeScale = 0f;
         }
     }
 }
