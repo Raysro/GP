@@ -7,7 +7,7 @@ public class UISnakeGame : MonoBehaviour
     public GameObject[] boards;
     public GameObject[] Warning;
     public Text scoreTXT;
-    int score = 0;
+    public int score = 0;
     private void Update()
     {
         scoreTXT.text = "SCORE: " + score;

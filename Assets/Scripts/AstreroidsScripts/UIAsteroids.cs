@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class UIAsteroids : MonoBehaviour
 {
     public Text score;
-    int Sp=0;
+    public int Sp =0;
     public GameObject[] livesSprite;
     private void Start()
     {
