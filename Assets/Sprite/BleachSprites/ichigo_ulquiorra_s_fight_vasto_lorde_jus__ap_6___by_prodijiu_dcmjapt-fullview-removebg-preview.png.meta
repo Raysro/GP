@@ -1,0 +1,5295 @@
+fileFormatVersion: 2
+guid: 2a91efded8390bc42928b2ae5503e823
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 16
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 666
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7763c8aac53df42af650af338c3129
+      internalID: -778921280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 683
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40f244c8065de4b81781009343bc81
+      internalID: 1411106310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61307069cb2582c4da489977434cdcbf
+      internalID: 1245180959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 646
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5c725e0a5358f489d9f674f1a63647
+      internalID: 2126476177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 646
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9dbc1056cd3444b5c6192fc40b64c
+      internalID: -374124443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 646
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcd4cbae75afc41bd0324c3d4241aa
+      internalID: -473504704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 646
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9cb13ad52dd44297635aeee60a469
+      internalID: -1528435888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 646
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad57ec784a34644a9107c1193b44b2
+      internalID: 394433882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 645
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94082ad5d48a32479db3ac527c36c8f
+      internalID: -1178537160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 645
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3684fd0a04799454fadc01a9b2eeb66b
+      internalID: -700002929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 645
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5411c06aa27642479575077e4d64efe
+      internalID: 622347694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 655
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af12bf89a7f3fa43a70aea160ab7db6
+      internalID: 1345575134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 655
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d82465cac99784c853e841c75042c9
+      internalID: 170501099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b763c6aef1384ca3987efb66cd157
+      internalID: 1165327768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 649
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e15f8576050014d8f435cc0aafe9cb
+      internalID: 761080806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa4d9e6efeb9f24fa7688cc4ec225c6
+      internalID: 225440945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 621
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ca737e9372e34ab4ca58492e7580f
+      internalID: 1312278494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 639
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f87cf9ec4a1c24b8f84420913b4c90
+      internalID: -1800666389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 627
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efceb9d601a9574a8caef167aaff908
+      internalID: 2058284531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 627
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c9f7c68f911d42a6ccd1d9a79aa87
+      internalID: -1459270861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 627
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8dc5839c0cf8e4cbe35864195a4504
+      internalID: -1957464078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 627
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fb561937aeb44792e53f5e4687869
+      internalID: 484100553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 627
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7f432182901c544bcaab87a25589fd
+      internalID: -2132097883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 627
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19189f075d23b94e8f31a6d1512d708
+      internalID: 1191032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 627
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6c7f99edb6af4eba148966e0c015f
+      internalID: 1443115680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 620
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4bcbc53ea0c3249a9613cf850bd3d2
+      internalID: 1828543730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 604
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9712b0cfe605d140b1cd004c4fadeea
+      internalID: 1825505497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 606
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390973ed7485a514c8e7289ee84f3c86
+      internalID: -856278590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 606
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4650a9ed69d4e6b40aa6e3c3f4c3ec0c
+      internalID: 13437373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50abe16c97335f4892ce76767e34f6c
+      internalID: -677360173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 606
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622d210a9a77a8a45b3b5b529772553b
+      internalID: 933874863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 606
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855d6f75cf122bc4c8aec29fdf3dc9c8
+      internalID: 703815461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 604
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91aadb3485d4184fbacaae83379d875
+      internalID: 1687791698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 604
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592113775fc04e04f87150c5aae4c3bd
+      internalID: 67378293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 604
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9ee35d701c6f49bbf874617ea6591
+      internalID: 1396085306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 605
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb55e8790a71504485f6e040af7c878
+      internalID: -858395464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 605
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4fcc83ebcdc948b5b5efea848e5a8
+      internalID: 646315218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 605
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9ef8e4bed1a014fa1d5917ac094ae8
+      internalID: 2114771595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929871d589ee7084b87dfcbd217190b8
+      internalID: 1931816744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 582
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2693ab6d3372194d9548196c2c97131
+      internalID: -1815417860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 582
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b334b20ef36fec489697aad5ac265f8
+      internalID: -1408928013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 565
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6c9f49a7bea84ca5eeba47c30a886
+      internalID: -1288647291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 564
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416c9ffe8e8f604d963879e2fae7c1c
+      internalID: -1680473898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 561
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3551d26a6bb9904d927a178696dc907
+      internalID: -2119401900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 561
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5bb744c1cf87d42a6493fbd02a04f5
+      internalID: 1607831664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 561
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f495330f28cb47843085a9c759be0
+      internalID: -1413262232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 562
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca18ef9feefeef479c7058379b548ad
+      internalID: -1286804516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 561
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e928c531549a74ab1e627a2c77d635
+      internalID: -166208451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 553
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628d6c7453a6bf847a867ee1edadc54d
+      internalID: 663865094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98a6c91da052d4f8367d17f07455a9
+      internalID: -412820298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 546
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75648b49bf2c40f4aacc14e7766d993c
+      internalID: -1622771371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 553
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502b1357b36c294ab9c6f5067da298c
+      internalID: 1319633169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 532
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a314edf22a00dc48917c6eaac1b3f99
+      internalID: 350744254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 532
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d923d7c4d0b7d24c8cc01513f62e910
+      internalID: 1098093230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 527
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5cf12fdbf14648afde130000e56a2
+      internalID: -70505405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 524
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c0d4357827dd246b41cbd5a22d122e
+      internalID: 1705652896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618167f0304943f48a8813f63513e050
+      internalID: -1058099506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 504
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c7a266c2d9204cb58193d73fd7d64
+      internalID: -571341787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 505
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788354508407c004e86e854db6e9ae16
+      internalID: -1976801202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 505
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ed4e1cf1390248b7d2a0f7fdc7112
+      internalID: 980773172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 504
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda7de91521343749bac990962727208
+      internalID: 1711321789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7254596534f875042aef56e891d127a9
+      internalID: -1642996181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b640b6e38bf657449373a1063cf373c
+      internalID: 705278972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 505
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2c693a8fe8e440ba382eb7eb19d3b
+      internalID: -1783541033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 504
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743aa09ab5b22534c89a9a13d97add1f
+      internalID: 502782913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 483
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281fea9d0a7c72d4d84368ad7994ab4e
+      internalID: -428021916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 483
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09efdf41eaae14d8e1834535f14351
+      internalID: -620863411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 483
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04e0c8b30a17d046954cc58e14965f0
+      internalID: 1627109568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 484
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c954cf1c56dbed438db5b35df6a1888
+      internalID: -285300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 484
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4c1b54e1b5ec40938fce3fbd505f3
+      internalID: -1145979794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 484
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e745e43be163bd4bb846024bdbb8bc9
+      internalID: 1708870679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 485
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a374725d55234eaa3edb9b112c886
+      internalID: -1477808213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 485
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d21bf2a7aec694594f52ce3f050d67
+      internalID: 174151917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 476
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1108dd0abae44cb652eef5e5179d9
+      internalID: -1456378519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 479
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f740fc2d3c0c468661d027473eb63
+      internalID: 81039790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6110c2ab260db9419c79e0a9851289e
+      internalID: -58130650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 458
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef79e7daef06d40b7254cdf49e13bc
+      internalID: 883156244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 456
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8cf667b5d7b14a964cb1644a6ee2b
+      internalID: -1233664599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 459
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8212e2aa32204cb7c6efc9f763abb
+      internalID: 1108154036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 459
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72317bcfc0f296a4ab3e556cab28d37a
+      internalID: -735189945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 404
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79e6a2f254fd54cb74ce5dab8d2740
+      internalID: 1070632332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 410
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57fbb39e85e786499d87c38a4b229a3
+      internalID: 1534760379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ca27a42606af42a7aec34dc417aaf
+      internalID: 49792897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 410
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152f12ca213d594c9871e44a8ba7ec6
+      internalID: -910022225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c03b6b18f29f4c825d5d8a6a36603
+      internalID: 1095359039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ca170c5392e24fb20283a3d0e0ba7
+      internalID: 1776247255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 390
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81664ed2dacec784aa02ca9bf990029d
+      internalID: -1261299104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 390
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff7ecf9cf53a694b9b6b8e224a4da70
+      internalID: 346674706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e278bb371c93d7c43aabf0255af47f5d
+      internalID: 442361421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 390
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60b51b4a6288f448c68d69d20a8139
+      internalID: -1253449416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b82f3851eba3439c15e3d37eeee78
+      internalID: -436215337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 368
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ad6c3ffb882b4caeed0891c377042
+      internalID: -2129847061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 368
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c89fec1786824a82263ed16056e0f
+      internalID: 489784936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8abe2b7d058844afb571a89149445
+      internalID: 946466301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 373
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef38c2bbae8a46a4e875d017bf499fb0
+      internalID: 1292926993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 371
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050d40c0ec7dfc4d9e665be5f18717b
+      internalID: -1444775914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 376
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20258fa63a29b8443855ef46594745ee
+      internalID: -2145278277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e1ce72af4e124fbab04426528f060
+      internalID: -1511350177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 356
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a8d2fc7aa4c442bc6c73105866fcd
+      internalID: 1644440472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ef938f859d4b4d94e0da89f817800
+      internalID: -704492917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 352
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f5f9542a294254e98923bb5e07e524
+      internalID: 1986873148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 352
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723104afff004c42988d7db4aa22122
+      internalID: -1802905360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a924c7158b9ba44b3db5297cbb159a
+      internalID: -1897542970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e04d166f755754fba641ca1c8bc5b6
+      internalID: 777201657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445b74d1a8885b4880656f2e08c4eba
+      internalID: 938225121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 352
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18cbc103bb4b634c90ff15775eba229
+      internalID: 1286324330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf623a9a3c4151449624cfb4e99e6b9
+      internalID: -1063936655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ab7007c9e4614faf027d5d36e02ba
+      internalID: -636688733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 340
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f388d6896917642b4468d2a0e58742
+      internalID: 1689194687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 335
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a7cb41c7b13e34da0f9b7c79803c69
+      internalID: 1511396552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 340
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abef304672e07478dc42b10f8da5ee
+      internalID: -846344990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c8709b7e668c148b6c050938a3bedc
+      internalID: -596554231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 318
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70159c0fe67bcd4fb6eeba16749de59
+      internalID: 1906246254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 318
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c2e85b554ace44820b98de544de40
+      internalID: 1182625256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b703cb384d5f8d4a9fa2afa6b1e99a5
+      internalID: 1215146881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660fa032e26db7c468a9651494d926a8
+      internalID: 248943751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 321
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a05eb3f69ad74fae24acae6c6aba8
+      internalID: -68239272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 319
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64ea621da3b3f4088036692a93f8db
+      internalID: 1149398267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13fda70f4267b4c9ece58136029664
+      internalID: -308161504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 318
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9096332c6a9148b7a24a6f6f5301d
+      internalID: 869720317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 317
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46061558752ec334d9bfa88d3b84c24d
+      internalID: -433004415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11771cb6d2cd3e845aa5746aaf123f3d
+      internalID: 1680255339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd827848db18434797885119167b4f6
+      internalID: -1364753973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 318
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520f010236878e4f9b766f9e9d65ebd
+      internalID: 1100761304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9df112090810b34db221f77bd146022
+      internalID: -1879763657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 264
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171573047e0c0de47a408fce82b3d899
+      internalID: 1542275481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 279
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7ecd5e4f132e44a20f2e94f956069
+      internalID: 1111653137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 280
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720c123d4f3eb94ea8d2f51e16570db
+      internalID: 1149786686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 278
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8092b72cb5aa0ef45a0b7f74025463d9
+      internalID: 1097101098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 276
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba5e4b4c1c0564fbf90da757881da0
+      internalID: 621491586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 264
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0730609c315045bf83ba8db72b4bd
+      internalID: -591279273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 264
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3898150fd6f2bfd4793f4c7ae02f5e16
+      internalID: 1129989087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 226
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decaaba8b23405741a95faa145e2457c
+      internalID: -1824494581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 226
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a22b8ce3d12a43970533f236bfc0d
+      internalID: 892949614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a47c9e0e17c94e856d8f3b20fa1d1
+      internalID: 447583143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 264
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9201f6fbe26a53d479614844d4da9f17
+      internalID: -1212945403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 264
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5b7a9b3d8a6a42873dc07ee76dcab
+      internalID: 1847982478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 263
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94803c1cca8868142b3e333bd22d0c71
+      internalID: 1603307046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5bc0b51b61804981a33570e09f1a6
+      internalID: 1874538543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 263
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8dd3489dfb5e849a77a7ac8d0041c6
+      internalID: -568954316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 201
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240c689c1da16f64192e4c513f2847da
+      internalID: 941111669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbac25aea68aaf4987f0f840b9f254c
+      internalID: -808016898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f207d1a308336458f66a156a364b7d
+      internalID: 1362408907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 213
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8bc95c75bf66049acacf4ac10e4da5
+      internalID: -1654212610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ef9b83f2e5f942afeeea3b66e23e4
+      internalID: 13209228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 206
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40352337fa82c814db1deab4e58917fd
+      internalID: -703957468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560524939fd14e48b035912b802c07e
+      internalID: -1087420484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5291e03a8288f43b4ee825406fbc66
+      internalID: -458175462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4acaa2e2ba5bc409a71697bbb0f82a
+      internalID: 1848520454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 192
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8637aee3d230324087760dab1b7ee92
+      internalID: -1804179695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 182
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6e40a3ba1df24a8064efb04d3e61c
+      internalID: -602756016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 173
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394a27cf1636b347baca828814662c1
+      internalID: 334488011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4e4adb3e3f294e97551762ab8d36e
+      internalID: -687494946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae89b71d09c1e4fba06babadc4e191
+      internalID: 1624311312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 173
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ab78804dfa484ba941f1a0d69d89b
+      internalID: 591200625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766e6753c07da84ab18f0d145b35b13
+      internalID: 336559864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 171
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760b9fc7ea310142b5d360f3631fd86
+      internalID: -222888789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 170
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4792f786750f47904b1f38a5867ef
+      internalID: 195404455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 170
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276aab25ac3819244b063832c14d7262
+      internalID: 980748344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2f0fc37324e541ad4ae9bb824a88b
+      internalID: -1380818869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a5f386b73db64e9b19d9d1d06c7f9
+      internalID: -1584509119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 163
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6936b452c25344fb9a386a6d00e0f5
+      internalID: -806813893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb75c606a50674a8d0b4c3f45a36d5
+      internalID: 560466203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 163
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ebb97c7a8c1c47835b2226cd7e400
+      internalID: 201199846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec0b1d98f9af8448dd8118eb2df6d3
+      internalID: -706078339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 152
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa299af6ff86044d919696d7985af92
+      internalID: -1145707246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 152
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268e65620fbdeb4f9b5037cfb675d3a
+      internalID: 137389170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bdef45a3085784b8893bb61e923070
+      internalID: 1591484008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc19ca40514f6439b35d8b20cd95d4
+      internalID: 424606355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5379db80731dc2540a94e2da77a5a0ba
+      internalID: 1263261537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95438e534434c7c4eae90dbf4439558e
+      internalID: 1763632067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec3147ff1c3fb34dbada43065e0d555
+      internalID: 457557306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d5a406bfd245439af477b87fb6fe1
+      internalID: -524858137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6d24f184e1304888675ae501de812
+      internalID: 1674144886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1cd1b4f232c84e933afb7131c0189
+      internalID: 250574001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 134
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4afc761cf77747ac061a691d96121
+      internalID: -2121732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 131
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a2c3c042005045913eead81d7782f
+      internalID: 337652909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 135
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a34fc7fb9055d49a70fe50133c30aa
+      internalID: -320781817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 135
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f401588a6073f43bd7be21d0261924
+      internalID: -1123960250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 135
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd144d0e137e544ebf1d71a7b3a2c8b
+      internalID: -1010340938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 129
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d7bd2dd7995841aec2adf8dcf5038
+      internalID: -1631857194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e799db9a9c6b2c4fbc7638b01730dae
+      internalID: 2019716803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c3f823884cd0489fc8fa26a137280
+      internalID: 990407430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5514d12bd5737b4092fff1cb77f2dae
+      internalID: 2003621018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b3748d3c14d04fb3ae274496b12ef
+      internalID: 1507927385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff299cb960554204194dbfec3d987fab
+      internalID: 721576371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 126
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5924624d4a934595da5114c32190f
+      internalID: -263909059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28688367b4ad4b4c91a9c1c83800d26
+      internalID: 911022188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 126
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb1dfec2f799c4b8ad318d113506e5
+      internalID: -83158369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe1a7c78ead2f42824e36c182d4968
+      internalID: 485603661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 123
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339fc663e0262c140b2e95c2cb3b23d2
+      internalID: 817860813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 125
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4e4bacd5a972469f03149454b8deb
+      internalID: -489935051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0566f196cea9abd4f87bee034513806a
+      internalID: 713098675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 114
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a81eca9214434a93f445774de77a6
+      internalID: -1374160133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39268890964e1c40a0435691017e408
+      internalID: 2100866963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 113
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46002d85ea674e64fbf4f09c7c876bde
+      internalID: -1181969618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b987e96f63bcecf469d824ecc6bebf64
+      internalID: 1808199819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd13187c917e24aad012f2c1e93739
+      internalID: -1458179938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637ecdfefdf4af428820ba929e5727a
+      internalID: -869770521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 112
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d66c70627f2143997bd638fa1d4bc
+      internalID: -2033294927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53385d287f55be24382ae80948b45591
+      internalID: 584157229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a721bc099593234482db8ccae418e99
+      internalID: -1414264697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 102
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52101236d9b7e3a44b63625ccf8e7ce6
+      internalID: 827402212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 102
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbe7c80d92af5499b2935eb13bc9b1
+      internalID: 2053286226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23c581ee5c6bb438ac226caabf88a2
+      internalID: -2047002510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2501bb5ee6e448a481d3f224518c4
+      internalID: 1274823458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2327cea2894c224fa85c937938006c1
+      internalID: -1765548265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea581be04fb8e4894921a8b104c4fe
+      internalID: -247333402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_208
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfaa882d2b9d4745a09324f22392e81
+      internalID: -2138431335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_209
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7c1dcc7c3c8394fa519306dd5f4f34
+      internalID: -1853640991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_210
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a283e50eed4c54448fb5f4704283a00
+      internalID: 1853082331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_211
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 88
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eedc31596a6f77448d44c9ebdbcef74
+      internalID: 1993635084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_212
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 88
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c308ad6e7e7f74fb8edf091f4fe72c
+      internalID: 289107608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_213
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 88
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d84d219312774eae98d5cd42a825d
+      internalID: 475068212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_214
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee515a8c1321e4d801cfd6adf1dcfa
+      internalID: -514131668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_215
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91ed5a22472724b8971f36942360e5
+      internalID: 1160556513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_216
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d84af787eda374a8931f88f0ae5155
+      internalID: 558859497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc9286c969fc354f8dde8690f127bab
+      internalID: 456811652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_218
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acb4f0572ed1a49b407f4de81dfc41
+      internalID: 278688711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_219
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 73
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793c1e963f59464ea882dd45aa4cbca
+      internalID: 32805178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_220
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0d76fb2930b24ea6601446d70ff44
+      internalID: 506186441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_221
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57406ba04533054587c194326407a6d
+      internalID: 1743957805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_222
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96020a9cafdc7814db380d0696c1a23d
+      internalID: -731093585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_223
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57ec15c86b6bf45bdad9d1d5317a49
+      internalID: -266022676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_224
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99d34bee17a8845993a4c18dc562ef
+      internalID: -500833517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_225
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca33028cdcd7b94f8b2358cf41dfbca
+      internalID: -1534963142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_226
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c6c33f73038042928996dae66612d
+      internalID: -861624503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a3eb05c97c56498bc89075320b148
+      internalID: 2102222157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_228
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1e8b705cd56f44a44064eb104d821
+      internalID: -103189752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_229
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 62
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c504a17d2f3314eb8c1e1ec1ee15fa
+      internalID: 827742756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_230
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de66222b39a7b499a79e554dff25ad
+      internalID: -1904928283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_231
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0062ec471f0bb224fb555795cec0b350
+      internalID: 54433270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_232
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffcdab38a66bc44a834b06422df142c
+      internalID: -1559487089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_233
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ca7946cb887540ae5862fa1f391e1
+      internalID: 1662354581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_107: -636688733
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_63: -1783541033
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_225: -1534963142
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_75: -58130650
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_203: 2053286226
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_205: 1274823458
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_85: 1776247255
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_124: -1879763657
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_127: 1149786686
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_25: 1828543730
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_119: 869720317
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_42: -1680473898
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_108: 1689194687
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_195: -1181969618
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_77: -1233664599
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_109: 1511396552
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_139: -568954316
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_43: -2119401900
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_68: -285300504
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_151: 334488011
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_58: -1976801202
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_46: -1286804516
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_10: 622347694
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_67: 1627109568
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_172: -524858137
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_99: -704492917
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_60: 1711321789
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_191: -489935051
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_44: 1607831664
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_231: 54433270
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_199: -2033294927
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_47: -166208451
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_204: -2047002510
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_175: -2121732851
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_150: -602756016
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_197: -1458179938
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_48: 663865094
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_214: -514131668
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_190: 817860813
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_2: 1245180959
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_61: -1642996181
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_133: 892949614
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_111: -596554231
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_224: -500833517
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_52: 350744254
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_76: 883156244
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_226: -861624503
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_110: -846344990
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_96: -2145278277
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_32: 1687791698
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_37: 2114771595
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_148: 1848520454
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_163: 201199846
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_137: 1603307046
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_59: 980773172
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_29: -677360173
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_193: -1374160133
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_206: -1765548265
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_164: -706078339
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_212: 289107608
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_118: -308161504
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_55: 1705652896
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_69: -1145979794
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_92: 489784936
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_95: -1444775914
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_103: 777201657
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_152: -687494946
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_178: -1123960250
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_22: -2132097883
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_161: -806813893
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_143: -1654212610
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_159: -1380818869
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_208: -2138431335
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_34: 1396085306
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_121: 1680255339
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_81: 1534760379
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_211: 1993635084
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_1: 1411106310
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_140: 941111669
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_71: -1477808213
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_93: 946466301
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_168: 424606355
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_232: -1559487089
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_220: 506186441
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_24: 1443115680
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_70: 1708870679
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_16: 1312278494
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_33: 67378293
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_131: 1129989087
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_19: -1459270861
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_105: 1286324330
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_64: 502782913
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_79: -735189945
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_80: 1070632332
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_123: 1100761304
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_149: -1804179695
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_21: 484100553
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_165: -1145707246
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_179: -1010340938
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_147: -458175462
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_196: 1808199819
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_104: 938225121
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_216: 558859497
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_213: 475068212
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_154: 591200625
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_219: 32805178
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_31: 703815461
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_18: 2058284531
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_73: -1456378519
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_144: 13209228
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_11: 1345575134
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_38: 1931816744
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_26: 1825505497
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_83: -910022225
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_153: 1624311312
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_101: -1802905360
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_160: -1584509119
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_12: 170501099
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_233: 1662354581
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_88: 442361421
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_36: 646315218
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_86: -1261299104
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_49: -412820298
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_186: -263909059
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_215: 1160556513
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_45: -1413262232
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_183: 2003621018
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_188: -83158369
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_41: -1288647291
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_0: -778921280
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_57: -571341787
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_209: -1853640991
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_202: 827402212
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_228: -103189752
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_192: 713098675
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_207: -247333402
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_94: 1292926993
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_177: -320781817
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_185: 721576371
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_200: 584157229
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_134: 447583143
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_158: 980748344
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_217: 456811652
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_62: 705278972
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_56: -1058099506
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_145: -703957468
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_4: -374124443
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_78: 1108154036
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_155: 336559864
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_40: -1408928013
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_54: -70505405
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_9: -700002929
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_125: 1542275481
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_189: 485603661
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_122: -1364753973
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_113: 1182625256
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_13: 1165327768
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_130: -591279273
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_223: -266022676
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_167: 1591484008
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_89: -1253449416
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_194: 2100866963
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_132: -1824494581
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_65: -428021916
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_115: 248943751
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_106: -1063936655
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_201: -1414264697
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_184: 1507927385
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_5: -473504704
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_141: -808016898
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_87: 346674706
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_126: 1111653137
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_218: 278688711
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_102: -1897542970
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_28: 13437373
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_50: -1622771371
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_174: 250574001
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_35: -858395464
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_136: 1847982478
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_221: 1743957805
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_230: -1904928283
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_14: 761080806
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_82: 49792897
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_114: 1215146881
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_98: 1644440472
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_180: -1631857194
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_181: 2019716803
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_39: -1815417860
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_97: -1511350177
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_112: 1906246254
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_72: 174151917
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_227: 2102222157
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_90: -436215337
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_91: -2129847061
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_23: 1191032230
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_173: 1674144886
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_187: 911022188
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_198: -869770521
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_162: 560466203
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_176: 337652909
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_222: -731093585
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_210: 1853082331
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_6: -1528435888
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_169: 1263261537
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_142: 1362408907
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_17: -1800666389
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_84: 1095359039
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_146: -1087420484
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_182: 990407430
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_100: 1986873148
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_157: 195404455
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_170: 1763632067
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_74: 81039790
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_27: -856278590
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_129: 621491586
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_138: 1874538543
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_7: 394433882
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_30: 933874863
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_171: 457557306
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_120: -433004415
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_156: -222888789
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_15: 225440945
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_53: 1098093230
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_8: -1178537160
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_135: -1212945403
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_116: -68239272
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_51: 1319633169
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_229: 827742756
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_20: -1957464078
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_117: 1149398267
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_66: -620863411
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_3: 2126476177
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_128: 1097101098
+      ichigo_ulquiorra_s_fight_vasto_lorde_jus__ap_6___by_prodijiu_dcmjapt-fullview-removebg-preview_166: 137389170
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

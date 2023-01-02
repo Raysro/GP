@@ -1,0 +1,2765 @@
+fileFormatVersion: 2
+guid: 4eb4d4ed843ce514ab82b2e8e1db6d1c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 16
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 438
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f4360698a8bd45b7b7940c43bbb2d
+      internalID: -196031942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 438
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e1deb1e384444f9e4c75a6c6a2a50
+      internalID: -1415160708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 438
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d889d06fa49e4e959dd2fdd314fca
+      internalID: -1523508229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 438
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70288fcf3d1404092af79b6d6811ca
+      internalID: 1138814263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 438
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9431d593ef7694190655942bf48c7a
+      internalID: -1407451369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 436
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3be20108dfff44ca39d48bf0f4c9dd
+      internalID: -1923807417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 436
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f24ebdd8a8bb40b2f668052c5f978
+      internalID: 2140012397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 337
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c0dc7966ba9b44b6bb5b661be8b6d
+      internalID: -1724708656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 309
+        width: 197
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b65668dfa7e8489c79194ce81a446
+      internalID: -398461030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 412
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ba87803c685a4c8b086eb7b194f28
+      internalID: -1186971993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 411
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d085273fcb91444fa7a2d4cd02ccf8b
+      internalID: 2019436102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 412
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5af86f7fb96843a02b9047b9492ff
+      internalID: 924552275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 398
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc268873de6544e98b0cc1e6a66146
+      internalID: 641207853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 395
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc9c2cf831b0e144890a4859e4df0c2
+      internalID: -664899542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 386
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838dd6cbe9d2d9f46ab54534e92ae828
+      internalID: 2138334358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 386
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5f73e05d51ac04897a57de11a36092
+      internalID: -652510938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 360
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc93cbe3ff1844085e144214d8c251
+      internalID: -985470325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 360
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d004bb714ef0b418340ef04a738f6a
+      internalID: -807826877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 360
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4d5f1c67b603428e0562183853ff7
+      internalID: 314997596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 353
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd4738615c8824ea83e4957c43baee
+      internalID: 1652154015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 349
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d4edc84afa2b4da75062ae5eaa228
+      internalID: -1191472708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 346
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2342db2cfe1443af581b876b27112
+      internalID: -1295502575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 326
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4e66f0dfcd3e418254e7424f541f8
+      internalID: 1364507863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 326
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e786a97adf6984aaef8d4c41643e2d
+      internalID: -201647558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 340
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3059fad331ffaf4f822c60d84beb6f1
+      internalID: -20344174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 334
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72a1991566e5c4c9b66d84d297c3d4
+      internalID: -1642454467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 332
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ef55f122ecd8447a5e7c60b8bdf882
+      internalID: -1684428462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 317
+        width: 103
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e628e8b82773641a432ec5cc5254fc
+      internalID: 1528630750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 329
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fde3b13b0715d49934bd61d5ab1f57
+      internalID: 1141546953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 326
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2dfb318ad274a4f9b9de2c05505a68
+      internalID: 1562003077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 330
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e805ae9a2a8b28b43b9484fcf3362023
+      internalID: -405645708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 333
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15a52706b5c5e4886aaeb6f6b468e5
+      internalID: 1457645691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 327
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493386e1786fd5d44a5d68ad30ed3054
+      internalID: 1609065892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 329
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c92d8037a7642d4e86eab4dc3120d31
+      internalID: 1108709987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 325
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b181c10ffb27c469f737c0e025ea4a
+      internalID: -972561824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 328
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa8de5772336549a63b871d07e08f3
+      internalID: 1411552805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 325
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bee6b85cf09314bb66fd9a7f53b7a1
+      internalID: -923569589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 324
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a44b984a1c4fc40a70b2940139e624
+      internalID: -196211236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 323
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ca81cb63f713c4e8cd6dca18073ab8
+      internalID: -1267256442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 319
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c8cb3bac7e684b8eede03e454ad44
+      internalID: -1865365102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 321
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccdc1fe2abdcb4797890a422dba366
+      internalID: -1251768483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 320
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808f7d55ecb7184b8f59719f80cc92e
+      internalID: -714986648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 319
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22c6d977e0c8f44855d34f8667c8bb
+      internalID: 1911695240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 319
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6111b53586f6abf4c886f14004db1e52
+      internalID: -14320758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 321
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1907188e2a974f9b1bd0f4bf8d3bc
+      internalID: 2104381766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 296
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f42d9e5615840478356ed0e5b7f35f
+      internalID: -2130579479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 297
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725dc976943e5b43b7c9ed7a8d9e62f
+      internalID: -1580651879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 262
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7c95fc1775b242bce826e6a5abd04
+      internalID: 1941832704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 262
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ccad3800c22a24998fac6e28fbd1fa
+      internalID: -2068405240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 262
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a967afb39fe7cb1459931e7da449d1f9
+      internalID: -1886585160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 261
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befac977e0f04104192e77036c37adf2
+      internalID: -477898486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26947dd476a1f014083c013af5d24ebf
+      internalID: -269467270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 280
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6cd0602b3a72541a03eeb2ba79603a
+      internalID: 62669710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 253
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97211a8e945254da1da077022f17a8
+      internalID: -1308770384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10
+        width: 122
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a611b4aadf76e4f987c6db5655b3e9
+      internalID: -921983114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 229
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe90e04a9a033f47a1044b32d17b471
+      internalID: -980828007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 229
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516092258753c64681096d76a4de854
+      internalID: -2064678045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 229
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3808aa6132eca4a874cfed28012961
+      internalID: 1533804880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 229
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f02bca8747144c8dccb4789979294
+      internalID: 1759431676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 229
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f64817c0fbf84e86f83685fb9ddb9
+      internalID: -912168353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 229
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c7a1961ae2504b9ccf7e212d8b80f
+      internalID: 746419003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 230
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44486661468d86a4eb9db08a5c776b1f
+      internalID: -199451309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 230
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31737c25168622841b48772b09a556e8
+      internalID: -86104077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 218
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2adbe6fceeb5489703aa3d4281d13
+      internalID: -366670389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 219
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940a36520843874698f9b0a7f6b029c
+      internalID: -412619956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53390f286a0fd384d85cc727f10dff6a
+      internalID: 1841779569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c56fc210712df145a8a1a662bb866c7
+      internalID: 1519373551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 184
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d539591e9ab3141afee9410fe92be9
+      internalID: -2110536412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 184
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfce28c0768a49d4ba62cf4633259bee
+      internalID: 1167501191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fde2ac33ef0045ad44b453e5e7068
+      internalID: -1514390587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b62888bbbc9f74f810748a0cfc851e
+      internalID: -2092080052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 184
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7bd6ffc04bec147aba9d6d08af8f14
+      internalID: 354155644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5968569018b7f4f9c480bd01a0440e
+      internalID: -1538443190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 185
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5949607a45922247b7afe5c3aa20be7
+      internalID: 674791052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe257646b260b4ab78bc5fcf06b275
+      internalID: -1785973596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 185
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55b4b38336dc348ae2489f84f2c70c
+      internalID: -1223852401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832fdcf3be304b4da18545e9dbf43b4
+      internalID: -521331929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7ff021715c964eac312e21dae7d7a
+      internalID: 1993646854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523261081f5b4e45a34ca203695b9b2
+      internalID: -1899756405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a811a4f17a2f44839fc7d14859f35
+      internalID: -371798117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4413f9388380846a234237adcc3cdf
+      internalID: -831035830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 148
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c03ed39579554ca49ef2748ebde03
+      internalID: 46498031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 144
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df503e97a21304db5d8c922e0d481b
+      internalID: -754148497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 146
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c097b2cbb6c5043976ad8931663a91
+      internalID: -127307941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb7e9b799fb4140aa417653f40e702
+      internalID: -1083345972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 146
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e74ab3fd2bcee40be2216ba149ff2a
+      internalID: -11926225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c763f75efc13294da1ec32affb4f258
+      internalID: 401911130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 130
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5b8598f562c84d8097adfde16342c
+      internalID: -765423570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 137
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce5248b56d4b7469cdd306a95fb362
+      internalID: -642783223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 136
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae5c4297532ee4284460591403921c
+      internalID: -1927026548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49467e4b92bb65c4a84b82a1216c3653
+      internalID: -1926619531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73167ac95913c2c4ba22d93b764062ec
+      internalID: 367893742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601d9a93893c7c4e98ee0dcb3765088
+      internalID: 514162613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b3fd26c38917d458033967b6b20055
+      internalID: -411283899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01cc610cbd9994cb4b49a9253b3ce5
+      internalID: 1457509744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 136
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb964e89fb63d4c873385f73b202d0
+      internalID: -1476731068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 136
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d746abf4671f14882b3a59dbed15cf
+      internalID: -1328900153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 136
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928a7ef20a05a1449dd984130effbb0
+      internalID: 2138862765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 130
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f7d8a58065c74e99e4d5c2f9c7861
+      internalID: -1107315098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 94
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4a22d017d2b2747a3c1b601d0ff446
+      internalID: -748172981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1038f594e41cce4c85a4a2dbfe67bca
+      internalID: 1123774880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75def2058570f49bbe97f9423e305c
+      internalID: 95498572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 94
+        width: 106
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c6c3067c5b4b44b4d6901e3fc5933
+      internalID: 1988132636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d47dedd4a82914c9858f811186c526
+      internalID: 2053427244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 94
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1461031a75934b4ebd152be5b682e7f
+      internalID: 367564427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 94
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b65ad946fd6945934f5c98eef674b
+      internalID: -272293429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72558cbcb2cf7444380bec952f34265b
+      internalID: 2145786629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830dc917e0c0a6f4fa02b395d2a69661
+      internalID: -1847938544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5125ad608ab164ab0001df9d0c94e3
+      internalID: -1663904069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 62
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d5fb915b81de47a27d2a361dfcec3
+      internalID: -129492279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3e39850c77d048b06d6185cea6b87
+      internalID: -1804225216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af92d1a8e84ec2046bfaaa8a0d61325b
+      internalID: -1691289438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 25
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7b3a0ab943c54bbc6efdc0ba5ce32
+      internalID: 341955284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3446033b91a3e14590e9073dd9dfef4
+      internalID: 323260573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e79b8a1c2a7e84595175898aab7738
+      internalID: 734152201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 24
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d9b3d5342225f4c9cb7e56140787ff
+      internalID: 2114937950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 27
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2d125df6fe7a47a39ac55d7cfd825
+      internalID: 1554961976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 27
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dd5109b94af34ab72c8398b7e51f6
+      internalID: 1854403123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecba370f35590647bcd0e5877a8d496
+      internalID: 844983636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_21: -1295502575
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_16: -985470325
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_112: 341955284
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_8: -398461030
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_88: -642783223
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_42: 1911695240
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_28: 1141546953
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_111: -1691289438
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_66: 1519373551
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_5: -1923807417
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_60: 746419003
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_61: -199451309
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_93: -411283899
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_15: -652510938
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_90: -1926619531
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_38: -1267256442
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_98: -1107315098
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_102: 1988132636
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_67: -2110536412
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_107: -1847938544
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_46: -1580651879
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_30: -405645708
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_23: -201647558
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_86: 401911130
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_81: 46498031
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_83: -127307941
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_114: 734152201
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_26: -1684428462
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_74: -1785973596
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_76: -521331929
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_99: -748172981
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_100: 1123774880
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_115: 2114937950
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_36: -923569589
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_17: -807826877
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_9: -1186971993
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_24: -20344174
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_43: -14320758
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_70: -2092080052
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_6: 2140012397
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_55: -980828007
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_117: 1854403123
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_1: -1415160708
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_18: 314997596
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_78: -1899756405
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_80: -831035830
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_56: -2064678045
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_103: 2053427244
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_75: -1223852401
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_44: 2104381766
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_50: -477898486
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_89: -1927026548
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_19: 1652154015
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_97: 2138862765
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_92: 514162613
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_63: -366670389
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_85: -11926225
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_14: 2138334358
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_25: -1642454467
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_91: 367893742
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_0: -196031942
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_59: -912168353
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_82: -754148497
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_54: -921983114
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_84: -1083345972
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_34: -972561824
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_51: -269467270
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_22: 1364507863
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_64: -412619956
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_110: -1804225216
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_69: -1514390587
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_7: -1724708656
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_109: -129492279
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_31: 1457645691
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_32: 1609065892
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_33: 1108709987
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_101: 95498572
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_68: 1167501191
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_40: -1251768483
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_27: 1528630750
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_79: -371798117
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_49: -1886585160
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_52: 62669710
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_71: 354155644
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_10: 2019436102
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_87: -765423570
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_41: -714986648
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_45: -2130579479
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_47: 1941832704
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_108: -1663904069
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_20: -1191472708
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_13: -664899542
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_72: -1538443190
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_95: -1476731068
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_53: -1308770384
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_106: 2145786629
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_57: 1533804880
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_77: 1993646854
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_62: -86104077
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_96: -1328900153
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_73: 674791052
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_105: -272293429
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_48: -2068405240
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_11: 924552275
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_118: 844983636
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_35: 1411552805
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_116: 1554961976
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_12: 641207853
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_4: -1407451369
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_3: 1138814263
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_65: 1841779569
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_2: -1523508229
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_113: 323260573
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_29: 1562003077
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_37: -196211236
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_58: 1759431676
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_39: -1865365102
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_94: 1457509744
+      jus_fullbring_ichigo_sprite_sheet____w_i_p__by_pizza_boi_d5dq7ti-fullview-removebg-preview_104: 367564427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class UIAsteroids : MonoBehaviour
 {
@@ -15,6 +16,10 @@ public class UIAsteroids : MonoBehaviour
     {
         Sp += points;
         score.text = "Score: " + Sp;
+        if (Sp == 50)
+        {
+            SceneManager.LoadScene(3);
+        }
     }
     public void UpdateLives(int l)
     {

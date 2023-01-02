@@ -1,0 +1,1225 @@
+fileFormatVersion: 2
+guid: 124cff8b0ac90b44994ed93bb2442b9b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f3e192506911449488508a56a5bda
+      internalID: 125910559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a95474cda904e4fb9a748f166c41c8
+      internalID: 1382008554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 231
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b7a8d4b181214ab501911847b333f
+      internalID: 1662811247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 231
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2c488778590742ba6c9c0d01737da
+      internalID: -1757295775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 231
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f18315322d4348ad8b74b4d6ea24c
+      internalID: 2105247309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 231
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867a6878a7badbd40900a4d37a053100
+      internalID: -1185304331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 231
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2803fa13e3d3a04f9ce7d7d15b75298
+      internalID: 1327238984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 231
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b647d69f5c4749409b726569b9064e2
+      internalID: 15477984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 231
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2b7b83cd64a74498cc71d12de90cc
+      internalID: -1552754575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 231
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7463d706ebb18040b839db272904bd4
+      internalID: 1663897216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704b30bbda49c841b2a18a840b53777
+      internalID: 1414064097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 182
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909280720f569e48b61f499287d50db
+      internalID: 1230426221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 182
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a71de77cc2cafd42baf38b0cb612b26
+      internalID: 1763105701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c461191cc26a941ba45f3b003ebc06
+      internalID: -1269001627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febd2f7b965e394b8f593cb71e66c09
+      internalID: -1373119189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8a1a0a1d45d849887d33f3ba7c6c7
+      internalID: 705917237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d07f0183f22d469cf54ce1a56dce1
+      internalID: -1996198651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac463541d1caa054b85888c0e6cbc10e
+      internalID: 1710732182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 182
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97cf024713862949a9ff2b81b321015
+      internalID: -889200171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 182
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be3047984b53546ad17084fd5c1485
+      internalID: 436760917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908b168865b49d419c1f2e55098121a
+      internalID: 1227566587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6583ac15d1784c8c498035eb4165f
+      internalID: 1289209251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2f6f54235b894581215ae18714eb7
+      internalID: -1438496845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f81008948d064bafeaed8d78aa6b0
+      internalID: 2100609880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b11fde76ce6f48bcab4237fc63bba
+      internalID: -248854560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36487433d6e55064d8766e20b121bff9
+      internalID: -1234802632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33087bc439c3bd46a5f2ec04be54107
+      internalID: -1296902296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 145
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd98138e2368548bae0e00e5d1f658
+      internalID: -1619158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47c5acb5d39fef4a87a90f2e32131a6
+      internalID: -2109703405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976014639a831d4d9c90c4c63cb4071
+      internalID: 1536976426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3d382c8b78f34db2ae19ff6bb7225
+      internalID: -1618017257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befd4857e449bb4bbb7e957e3fa85f0
+      internalID: -1799998958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 137
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca36043fed8f641881c29684f528fe
+      internalID: 732742355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 134
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df4d31ddb78a84987d9d68f7ba6531
+      internalID: 1188243749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b568e6dfd9ed6468da41a23362fdd2
+      internalID: 140736753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 83
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ecf16a552bd341b5afbcb932c7837
+      internalID: -459579868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b02e88ae98b74eb8a67bbac0fd46b
+      internalID: 569402797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a08ba6fb679e4f8d3fe8ee5557310
+      internalID: 774342067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc191a317ef61a44e9dc9b2fa7e97f7e
+      internalID: 1149834098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e56b7b53caea488b63a2e4abe6629
+      internalID: 1186045143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e4e5d24fc4ca4a97011afd75f86f6
+      internalID: -1071596182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 107
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de972015f9d5304a8a19e3aab532200
+      internalID: -1461315332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_42
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 107
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd7b0a8595cbf418fbd51dac9e9b4e
+      internalID: 16676909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b70e087144fadb4a97e175d8d45db90
+      internalID: -2140480646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 73
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61dade574e283b4dbdfe890d393bb8e
+      internalID: 1198077213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 68
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ad9aaaf95303489378b0da6f21811
+      internalID: 580328630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e8c8575a42727438098fbe8a68c63c
+      internalID: 1842957378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54515fa041b19a944af952530639901c
+      internalID: -595143343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Bleach The 3rd Phantom - Orihime Inoue_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20babc56d4faa846a140aaa42742341
+      internalID: 1353981776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_34: 140736753
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_48: 1353981776
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_35: -459579868
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_29: 1536976426
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_33: 1188243749
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_19: 436760917
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_17: 1710732182
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_11: 1230426221
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_28: -2109703405
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_40: -1071596182
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_27: -1619158997
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_45: 580328630
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_44: 1198077213
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_2: 1662811247
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_5: -1185304331
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_25: -1234802632
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_8: -1552754575
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_41: -1461315332
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_7: 15477984
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_32: 732742355
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_12: 1763105701
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_18: -889200171
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_20: 1227566587
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_14: -1373119189
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_31: -1799998958
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_10: 1414064097
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_22: -1438496845
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_38: 1149834098
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_36: 569402797
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_21: 1289209251
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_16: -1996198651
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_3: -1757295775
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_6: 1327238984
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_37: 774342067
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_39: 1186045143
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_42: 16676909
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_9: 1663897216
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_13: -1269001627
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_0: 125910559
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_26: -1296902296
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_47: -595143343
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_43: -2140480646
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_4: 2105247309
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_23: 2100609880
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_46: 1842957378
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_24: -248854560
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_1: 1382008554
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_15: 705917237
+      DS DSi - Bleach The 3rd Phantom - Orihime Inoue_30: -1618017257
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

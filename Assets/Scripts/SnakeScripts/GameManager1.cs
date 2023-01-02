@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class GameManager1 : MonoBehaviour
 {
 
      public void startGame()
@@ -14,10 +14,13 @@ public class GameManager : MonoBehaviour
    
     void Update()
     {
-        if (FindObjectOfType<UISnakeGame>().score == 100)
+        if (FindObjectOfType<UISnakeGame>().score == 50)
             SceneManager.LoadScene(2);
 
-        if (FindObjectOfType<UIAsteroids>().Sp == 100)
+        if (FindObjectOfType<UIAsteroids>().Sp == 50)
+        {
+            Debug.Log("50");
             SceneManager.LoadScene(3);
+        }
     }
 }
