@@ -8,6 +8,7 @@ public class UIAsteroids : MonoBehaviour
     public GameObject square;
     public Text score;
     public int Sp =0;
+    public float ss = -40f;
     public GameObject[] livesSprite;
     private void Start()
     {
@@ -17,9 +18,10 @@ public class UIAsteroids : MonoBehaviour
     {
         
             
-        square.transform.Translate(-40f * Time.deltaTime, 0, 0);
-        if(square.transform.position.x<= -200f)
-        Destroy(square);
+        square.transform.Translate(ss* Time.deltaTime, 0, 0);
+        if(square.transform.position.x<= -22f ) {
+            ss = 0;
+        }
     }
     public void UpdateScore(int points)
     {

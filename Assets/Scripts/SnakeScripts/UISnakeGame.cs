@@ -8,15 +8,19 @@ using UnityEngine.UI;
 public class UISnakeGame : MonoBehaviour
 {
     public GameObject square;
+    public float ss= -60f;
     public Text scoreTXT;
     public int score = 0;
     private void Update()
     {
         scoreTXT.text = "SCORE: " + score;
-        if (score == 50)
+        if (score == 50&& square!= null)
         {
-            square.transform.Translate(-60f * Time.deltaTime, 0, 0);
-
+            square.transform.Translate(ss * Time.deltaTime, 0, 0);
+            if (square.transform.position.x <= -22f)
+            {
+                ss = 0;
+            }
 
         }
     }
