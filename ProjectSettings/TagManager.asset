@@ -9,6 +9,11 @@ TagManager:
   - Tail
   - OBS
   - Bor
+  - Ball
+  - AIGoal
+  - PlayerGoal
+  - Ground
+  - Posion
   layers:
   - Default
   - TransparentFX

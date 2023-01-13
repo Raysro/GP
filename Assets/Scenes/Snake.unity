@@ -1332,7 +1332,7 @@ GameObject:
   - component: {fileID: 1180447849}
   m_Layer: 0
   m_Name: Food (1)
-  m_TagString: Food
+  m_TagString: Posion
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1610,6 +1610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   square: {fileID: 562374669}
+  ss: -60
   scoreTXT: {fileID: 1036133407}
   score: 0
 --- !u!114 &2129470212
