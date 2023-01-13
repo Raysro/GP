@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
     }
     private void pausefunction()
     {
-        Time.timeScale=0;
+       
         puasepanel.gameObject.SetActive(true);
     }
     public void resumegame()

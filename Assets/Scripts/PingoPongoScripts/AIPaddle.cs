@@ -6,7 +6,7 @@ public class AIPaddle : MonoBehaviour
 {
     public Rigidbody2D ballRb;
     Rigidbody2D rb;
-    float speed = 10;
+    float speed = 5f;
 
     private void Awake()
     {

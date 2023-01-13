@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     Animator Animator;
     void Start()
     {
+        Time.timeScale = 1;
         transform.position = new Vector3(0f, -4f, 0f);
         Animator=GetComponent<Animator>();
     }
