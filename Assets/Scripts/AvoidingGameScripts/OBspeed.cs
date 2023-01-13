@@ -22,9 +22,10 @@ public class OBspeed : MonoBehaviour
         
         
     }
-    private void OnTriggerEnter(Collider other)
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Bor")
+        if (other.gameObject.tag == "Bor")
         {
             Destroy(gameObject);
             Debug.Log("destroy");
