@@ -7,7 +7,8 @@ public class SpawnerOB : MonoBehaviour
     public GameObject[] Obs;
     void Start()
     {
-        StartCoroutine(spawnOB1());
+        
+       StartCoroutine(spawnOB1());
         StartCoroutine(spawnOB2());
         StartCoroutine(spawnOB4());
     }
@@ -23,7 +24,7 @@ public class SpawnerOB : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(3f);
             Instantiate(Obs[1], transform.position = new Vector3(Random.Range(-7f, 7f), 15f, 0f), transform.rotation);
         }
     }

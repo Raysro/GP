@@ -28,7 +28,7 @@ public class OBspeed : MonoBehaviour
         if (other.gameObject.tag == "Bor")
         {
             Destroy(gameObject);
-            Debug.Log("destroy");
+           
         }
     }
 }
