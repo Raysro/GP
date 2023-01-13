@@ -18,9 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PingoPongo.unity
     guid: f880d921f19acad47b4cc7524a6cb96b
   - enabled: 1
-    path: Assets/Scenes/AvoidingGame.unity
-    guid: b56cfe8255562e84ba2dafc7bcd167e8
-  - enabled: 1
     path: Assets/Scenes/BleachGame.unity
     guid: 1873d2f1d07df2d4f9dd3d4b7d1f59a7
+  - enabled: 1
+    path: Assets/Scenes/AvoidingGame.unity
+    guid: b56cfe8255562e84ba2dafc7bcd167e8
   m_configObjects: {}

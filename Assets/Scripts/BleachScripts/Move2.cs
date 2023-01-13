@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Move2 : MonoBehaviour
 {
@@ -110,6 +111,8 @@ public class Move2 : MonoBehaviour
         {
             Time.timeScale = 0;
             YouWon.gameObject.SetActive(true);
+            SceneManager.LoadScene(5);
+            
         }
     }
     public void shieldactive()
