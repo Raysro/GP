@@ -5,19 +5,29 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class UiAvoiding : MonoBehaviour
 {
+    public GameObject Pause;
+    public GameObject Won;
     public Text scoreAO;
     int scorenum = 0;
     void Start()
     {
+
         StartCoroutine(scoreHandel());
     }
 
     
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            PauseMenu();
+        }
         scoreAO.text = ""+scorenum;
         if (scorenum == 200)
-            SceneManager.LoadScene(6);
+        {
+            StartCoroutine(delayScene());
+            
+        }
     }
     private IEnumerator scoreHandel()
     {
@@ -32,5 +42,30 @@ public class UiAvoiding : MonoBehaviour
         }
 
     }
-    
+    private IEnumerator delayScene()
+    {
+        Won.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene(6);
+    }
+    public void PauseMenu()
+    {
+        Time.timeScale = 0;
+        Pause.SetActive(true);
+    }
+
+    public void Mainmenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void Restart()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void Resume()
+    {
+        Time.timeScale = 1;
+        Pause.SetActive(false);
+    }
+
 }

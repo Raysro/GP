@@ -7,7 +7,7 @@ public class UIAsteroids : MonoBehaviour
 {
     public GameObject square;
     public GameObject Pause;
-    public GameObject WonSnake;
+    public GameObject Won;
     public Text score;
     public int Sp =0;
     public float ss = -40f;
@@ -53,7 +53,7 @@ public class UIAsteroids : MonoBehaviour
     }
     private IEnumerator delayScene()
     {
-        WonSnake.SetActive(true);
+        Won.SetActive(true);
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(3);
     }

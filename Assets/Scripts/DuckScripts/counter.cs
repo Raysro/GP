@@ -30,11 +30,11 @@ public class counter : MonoBehaviour
     {
         counter11 = duck + counter11;
         duck1.text = counter11.ToString();
-        if (counter11 == 20&&counter12==30)
+        if (counter11 == 20 && counter12 == 30)
         {
-           
+
             youwin.gameObject.SetActive(true);
-            
+
         }
     }
     public void rabit(float rabit)

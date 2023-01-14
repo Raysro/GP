@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
     public float Speed = 5f;
     int Lives = 3;
     Animator Animator;
+    public GameObject gameover;
+
     void Start()
     {
         Time.timeScale = 1;
@@ -39,11 +41,21 @@ public class PlayerMovement : MonoBehaviour
             
             
     }
+    public void GameOver()
+    {
+        gameover.SetActive(true);
+        Time.timeScale = 0;
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "OBS")
         {
-            Destroy(this.gameObject);
+            Lives--;
+        }
+        if(Lives == 0)
+        {
+          Destroy(this.gameObject);
+            GameOver();
         }
     }
 }

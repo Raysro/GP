@@ -1,24 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
-public class UIManager : MonoBehaviour
+public class HealthUI : MonoBehaviour
 {
-    public Text playerScoreTXT;
-    public Text AIScoreTXT;
-    [SerializeField] int playerScore = 0;
-    int AIScore = 0;
+    public Scrollbar health;
     public GameObject Pause;
     public GameObject Won;
     public GameObject gameover;
-    private void Start()
-    {
-        playerScoreTXT.text = ""+playerScore;
-        AIScoreTXT.text = ""+AIScore;
 
-    }
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.P))
@@ -26,29 +19,18 @@ public class UIManager : MonoBehaviour
             PauseMenu();
         }
     }
-
-    public void PlayerScored()
+    private void Start()
     {
-        playerScore++;
-        playerScoreTXT.text =""+playerScore;
-        if (playerScore == 3)
+        health.size = 1;
+    }
+    public void BaseDamage(float h)
+    {
+        Debug.Log(h);
+        health.size = h*0.01f;
+        if (h <= 0)
         {
-            StartCoroutine(delayScene());
-        }
-    }
-    public void AIScored()
-    {
-        AIScore++;
-        AIScoreTXT.text = ""+AIScore;
-        if (AIScore == 3)
             GameOver();
-    }
-
-    private IEnumerator delayScene()
-    {
-        Won.SetActive(true);
-        yield return new WaitForSeconds(1f);
-        SceneManager.LoadScene(4);
+        }
     }
     public void PauseMenu()
     {
