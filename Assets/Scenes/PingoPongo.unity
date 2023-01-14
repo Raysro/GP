@@ -1606,7 +1606,7 @@ MonoBehaviour:
   AIScoreTXT: {fileID: 252276029}
   playerScore: 0
   Pause: {fileID: 1536167590}
-  WonSnake: {fileID: 380782498}
+  Won: {fileID: 380782498}
   gameover: {fileID: 2114789353}
 --- !u!114 &1690735192
 MonoBehaviour:
@@ -1944,6 +1944,10 @@ PrefabInstance:
     - target: {fileID: 5882843072637225365, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}
       propertyPath: m_Name
       value: Won
+      objectReference: {fileID: 0}
+    - target: {fileID: 5882843072637225365, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}
