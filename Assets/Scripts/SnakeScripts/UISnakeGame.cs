@@ -9,6 +9,7 @@ public class UISnakeGame : MonoBehaviour
 {
     public GameObject square;
     public GameObject WonSnake;
+    public GameObject Pause;
     public float ss= -60f;
     public Text scoreTXT;
     public int score = 0;
@@ -24,6 +25,10 @@ public class UISnakeGame : MonoBehaviour
                 ss = 0;
             }
 
+        }
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            PauseMenu();
         }
     }
     public void livesSp(int lives)
@@ -45,6 +50,11 @@ public class UISnakeGame : MonoBehaviour
 
         }
     }
+    public void PauseMenu()
+    {
+        Time.timeScale = 0;
+        Pause.SetActive(true);
+    }
     private IEnumerator delayScene() 
     {
         WonSnake.SetActive(true);
@@ -59,4 +69,12 @@ public class UISnakeGame : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+    public void Resume()
+    {
+        Time.timeScale = 1;
+        Pause.SetActive(false);
+    }
+    
+
+
 }
