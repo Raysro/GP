@@ -11,10 +11,11 @@ public class SnakeMove : MonoBehaviour
     int checky = 0;
     int checkx = 0;
     int Lives = 3; 
-    bool GO=false;
+    public GameObject gameover;
 
     void Start()
     {
+        Time.timeScale = 1;
         SnakesT.Add(this.transform);
         transform.position = Vector3.zero;
     }
@@ -67,13 +68,13 @@ public class SnakeMove : MonoBehaviour
         #region border
         float x = transform.position.x;
         float y = transform.position.y;
-        if (transform.position.y >= 13.5f)
+        if (transform.position.y >= 16f)
         {
-            transform.position = new Vector3(x, -13.5f, 0);
+            transform.position = new Vector3(x, -16f, 0);
         }
-        else if (transform.position.y <= -13.5f)
+        else if (transform.position.y <= -16f)
         {
-            transform.position = new Vector3(x, 13.5f, 0);
+            transform.position = new Vector3(x, 16f, 0);
         }
         x = transform.position.x;
         y = transform.position.y;
@@ -112,13 +113,16 @@ public class SnakeMove : MonoBehaviour
         {
             
             Lives--;
-            if(Lives == 0)
+            FindObjectOfType<UISnakeGame>().livesSp(Lives);
+            if (Lives == 0)
                 GameOver();
         }
          
     }
     public void GameOver()
     {
-        
+        gameover.SetActive(true);
+        Time.timeScale = 0;
     }
+
 }

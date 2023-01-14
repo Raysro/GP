@@ -10,6 +10,7 @@ public class SpawnerOB : MonoBehaviour
         
        StartCoroutine(spawnOB1());
         StartCoroutine(spawnOB2());
+        StartCoroutine(spawnOB2());
         StartCoroutine(spawnOB4());
     }
     private IEnumerator spawnOB1()
