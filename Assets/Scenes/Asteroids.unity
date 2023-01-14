@@ -671,7 +671,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   square: {fileID: 1800620335}
   Pause: {fileID: 102092307}
-  WonSnake: {fileID: 1058680642}
+  Won: {fileID: 1058680642}
   score: {fileID: 2136180067}
   Sp: 0
   ss: -40
