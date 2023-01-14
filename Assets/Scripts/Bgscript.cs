@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Bgscript : MonoBehaviour
@@ -10,9 +11,10 @@ public class Bgscript : MonoBehaviour
     public float timespawn2 = 5f;
     
     public float speed;
+   
     void Start()
     {
-
+        Time.timeScale = 1;
         StartCoroutine(spawnOB1());
         StartCoroutine(spawnOB2());
         StartCoroutine(spawnOB3());

@@ -5,6 +5,7 @@ using UnityEngine;
 public class ShipMove : MonoBehaviour
 {
     //hala wallah
+    public GameObject gameover;
     [SerializeField] float moveSpeed = 1f;
     [SerializeField] float rotationSpeed = 1f;
     [SerializeField] GameObject bulletPre;
@@ -15,6 +16,7 @@ public class ShipMove : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        Time.timeScale = 1;
     }
     void Update()
     {
@@ -60,7 +62,16 @@ public class ShipMove : MonoBehaviour
     {
         lives--;
         FindObjectOfType<UIAsteroids>().UpdateLives(lives);
-        if(lives == 0)
+        if (lives == 0)
+        {
             Destroy(gameObject);
+            GameOver();
+        }
+
+    }
+    public void GameOver()
+    {
+        gameover.SetActive(true);
+        Time.timeScale = 0;
     }
 }

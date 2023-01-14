@@ -6,13 +6,16 @@ using UnityEngine.UI;
 public class UIAsteroids : MonoBehaviour
 {
     public GameObject square;
+    public GameObject Pause;
+    public GameObject WonSnake;
     public Text score;
     public int Sp =0;
     public float ss = -40f;
     public GameObject[] livesSprite;
     private void Start()
     {
-        score.text = "Score: " + Sp;
+        score.text = "" + Sp;
+       
     }
     private void Update()
     {
@@ -22,15 +25,20 @@ public class UIAsteroids : MonoBehaviour
         if(square.transform.position.x<= -22f ) {
             ss = 0;
         }
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            PauseMenu();
+        }
     }
     public void UpdateScore(int points)
     {
         
         Sp += points;
-        score.text = "Score: " + Sp;
+        score.text = "" + Sp;
         if (Sp == 50)
         {
-            SceneManager.LoadScene(3);
+
+            StartCoroutine(delayScene());
         }
     }
     public void UpdateLives(int l)
@@ -42,5 +50,30 @@ public class UIAsteroids : MonoBehaviour
         if (l == 0)
             livesSprite[l].SetActive(false);
 
+    }
+    private IEnumerator delayScene()
+    {
+        WonSnake.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene(3);
+    }
+    public void PauseMenu()
+    {
+        Time.timeScale = 0;
+        Pause.SetActive(true);
+    }
+    
+    public void Mainmenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void Restart()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void Resume()
+    {
+        Time.timeScale = 1;
+        Pause.SetActive(false);
     }
 }
