@@ -6,7 +6,7 @@ public class AIPaddle : MonoBehaviour
 {
     public Rigidbody2D ballRb;
     Rigidbody2D rb;
-    float speed = 5f;
+    float speed = 8f;
 
     private void Awake()
     {
@@ -30,11 +30,11 @@ public class AIPaddle : MonoBehaviour
         {
             if (this.transform.position.y > 0.0f)
             {
-                rb.AddForce(Vector2.down * speed);
+                rb.AddForce(Vector2.down * speed/2);
             }
             else if(this.transform.position.y < 0.0f)
             {
-                rb.AddForce(Vector2.up * speed);
+                rb.AddForce(Vector2.up * speed/2);
             }
         }
     }
