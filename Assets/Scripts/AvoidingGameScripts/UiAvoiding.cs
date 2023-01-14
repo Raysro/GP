@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class UiAvoiding : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class UiAvoiding : MonoBehaviour
     void Update()
     {
         scoreAO.text = ""+scorenum;
+        if (scorenum == 200)
+            SceneManager.LoadScene(6);
     }
     private IEnumerator scoreHandel()
     {
@@ -29,4 +32,5 @@ public class UiAvoiding : MonoBehaviour
         }
 
     }
+    
 }

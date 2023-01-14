@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: 8c0448fb46ebe6647bd0eae97bf7a73f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 16
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312166fe47e0ac04f82e7065331f9a4b
+      internalID: 595979323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e21390e2b5d334b9230922a331a6ba
+      internalID: -1333793973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3085c54ffef6034e9bf76bd88bd9e5f
+      internalID: -99008835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 224
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b85cdc3e4c152499b63aac0700ab16
+      internalID: -1710518918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd46b01e1b92746b9bf07b5e6973cd
+      internalID: 1888033587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 225
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf330399bbf031488aba4b02e9c48a2
+      internalID: -1127112574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e9b5770c25d574bb8dce72b8d4526b
+      internalID: 960510681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 161
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74997bed1875a054aa28bbf518dc2da8
+      internalID: -625379431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 168
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb7f4abe9c534429ff2dcbd3d617c6
+      internalID: 2083350374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 165
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae343c2494eb844a712867ba946f0a
+      internalID: -253119506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 165
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e03cec476407b4eaa8b585c7524349
+      internalID: -2990532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 165
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951da39f8a7f3d84d9c77768b51ffeea
+      internalID: 1006950815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b426fe243d5534886721d598eaf0d9
+      internalID: -2021387537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d28da1db4782742814c4f70aa60058
+      internalID: -1368429616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c853269e34ecb3642b8732001af297a2
+      internalID: 2060247116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb4d71b4f509446960dcfd412a516d
+      internalID: -157971821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3708cfd5a885b479ba37e3d55b5b4d
+      internalID: 1307220173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd70d067145d64fa930909cc02bfd1
+      internalID: 1460376108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 122
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6accf64f9523cd746b5b188aa93ef7b3
+      internalID: 2036044483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f23b3d5eb4179f43b71dfe5037780e1
+      internalID: -93713817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d59039443f064883726ca97ba4c4f
+      internalID: 1054618901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b6d109cba550e4dad4a97b0926e205
+      internalID: -813744874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a8750944e148479287568fe4032ae
+      internalID: -631507955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e00c74b8f7a3846925c18cbbbf15ee
+      internalID: -1519814312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc3a4890e4c3084fb8aea3aa7bc58be
+      internalID: -906223843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 80
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79560b98bd8a348b37ba46020da5e4
+      internalID: 872694565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 79
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb8e041158802647bf872149d94a36d
+      internalID: -1097487630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 79
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97a4ca942eabc4a84f76d3d023498e
+      internalID: -2083237960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 80
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d4474b39ab8f45b871e8cf0c52e74
+      internalID: 515740346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 79
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb53fa2b489d14a8c999d7c8aadd43
+      internalID: 298681542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140240c82ed30645a74a2230540833b
+      internalID: -366781151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df722322c06a2f4abd4aecd45bed8e7
+      internalID: -329428962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 39
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd72acfc00f8b4cafa6df2dd5c38ec
+      internalID: 968316087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b6cb16c5105dc41bb0614b834b72a3
+      internalID: 1369567294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e10faf707131468ccb558e057494a
+      internalID: 774056646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 39
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c319987dd68940a95757ec3e760bc
+      internalID: 1070837434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7845c7387cfc954a81f6ebaae62bc88
+      internalID: 1900397355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 39
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2d5372cfe4fd42ab323f2015e098c
+      internalID: -1325431366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 39
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1212e56cc9b84e946894ebc88f3b6
+      internalID: -320881482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81e75679567ff47a2c05c2de9a5e67
+      internalID: -293194179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd035e68cdd0e224f8daea56dbe10716
+      internalID: -1786163211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61418aa6198154e987eda1aad8565f
+      internalID: 1145909799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5d77aa9c65674cb8a180471435caa
+      internalID: -1914519714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8e7d1e25824948a2ffe91d09b229d
+      internalID: 168162549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duckhunt_various_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225902117dce6f46b8cffc0a1b90b9a
+      internalID: 83478058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      duckhunt_various_sheet_10: -2990532
+      duckhunt_various_sheet_11: 1006950815
+      duckhunt_various_sheet_14: 2060247116
+      duckhunt_various_sheet_43: 168162549
+      duckhunt_various_sheet_21: -813744874
+      duckhunt_various_sheet_18: 2036044483
+      duckhunt_various_sheet_2: -99008835
+      duckhunt_various_sheet_3: -1710518918
+      duckhunt_various_sheet_42: -1914519714
+      duckhunt_various_sheet_22: -631507955
+      duckhunt_various_sheet_15: -157971821
+      duckhunt_various_sheet_17: 1460376108
+      duckhunt_various_sheet_40: -1786163211
+      duckhunt_various_sheet_37: -1325431366
+      duckhunt_various_sheet_1: -1333793973
+      duckhunt_various_sheet_4: 1888033587
+      duckhunt_various_sheet_38: -320881482
+      duckhunt_various_sheet_8: 2083350374
+      duckhunt_various_sheet_29: 298681542
+      duckhunt_various_sheet_44: 83478058
+      duckhunt_various_sheet_5: -1127112574
+      duckhunt_various_sheet_35: 1070837434
+      duckhunt_various_sheet_7: -625379431
+      duckhunt_various_sheet_25: 872694565
+      duckhunt_various_sheet_27: -2083237960
+      duckhunt_various_sheet_30: -366781151
+      duckhunt_various_sheet_12: -2021387537
+      duckhunt_various_sheet_31: -329428962
+      duckhunt_various_sheet_32: 968316087
+      duckhunt_various_sheet_20: 1054618901
+      duckhunt_various_sheet_34: 774056646
+      duckhunt_various_sheet_6: 960510681
+      duckhunt_various_sheet_19: -93713817
+      duckhunt_various_sheet_26: -1097487630
+      duckhunt_various_sheet_28: 515740346
+      duckhunt_various_sheet_39: -293194179
+      duckhunt_various_sheet_13: -1368429616
+      duckhunt_various_sheet_41: 1145909799
+      duckhunt_various_sheet_0: 595979323
+      duckhunt_various_sheet_16: 1307220173
+      duckhunt_various_sheet_24: -906223843
+      duckhunt_various_sheet_36: 1900397355
+      duckhunt_various_sheet_33: 1369567294
+      duckhunt_various_sheet_23: -1519814312
+      duckhunt_various_sheet_9: -253119506
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
