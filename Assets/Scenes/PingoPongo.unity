@@ -1606,7 +1606,7 @@ MonoBehaviour:
   AIScoreTXT: {fileID: 252276029}
   playerScore: 0
   Pause: {fileID: 1536167590}
-  WonSnake: {fileID: 380782498}
+  Won: {fileID: 380782498}
   gameover: {fileID: 2114789353}
 --- !u!114 &1690735192
 MonoBehaviour:

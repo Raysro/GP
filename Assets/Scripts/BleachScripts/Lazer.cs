@@ -28,16 +28,12 @@ public class Lazer : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter(Collision collision)
     {
-        if (other.CompareTag("Player"))
-        {
+        if(collision.gameObject.tag=="Player")
             Destroy(this.gameObject);
-            Move2 m = GameObject.Find("Ichigo").GetComponent<Move2>();
-            m.damage();
-        }
-
     }
- 
+
+
 }
 

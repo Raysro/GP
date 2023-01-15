@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     int Lives = 3;
     Animator Animator;
     public GameObject gameover;
-
+    public GameObject[] LivesSP;
     void Start()
     {
         Time.timeScale = 1;
@@ -51,11 +51,21 @@ public class PlayerMovement : MonoBehaviour
         if (collision.tag == "OBS")
         {
             Lives--;
+            lives();
         }
         if(Lives == 0)
         {
           Destroy(this.gameObject);
             GameOver();
         }
+    }
+    public void lives()
+    {
+        if (Lives == 2)
+            LivesSP[0].SetActive(false);
+        if (Lives == 1)
+            LivesSP[1].SetActive(false);
+        if (Lives == 0)
+            LivesSP[2].SetActive(false);
     }
 }

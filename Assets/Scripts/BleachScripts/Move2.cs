@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,6 +22,9 @@ public class Move2 : MonoBehaviour
     public bool IsAlive = true;
     public TextMeshProUGUI YouWon;
     public GameObject Shield1;
+    public GameObject gameover;
+    public GameObject Won;
+    
     public bool IsJump = false;
     // Start is called before the first frame update
     void Start()
@@ -70,10 +74,10 @@ public class Move2 : MonoBehaviour
           
             IsAlive = false;
             restart.gameObject.SetActive(true);
-            GameOver.gameObject.SetActive(true);
+            //GameOver.gameObject.SetActive(true);
             Time.timeScale = 0;
             GameManager game = GameObject.Find("GameManager").GetComponent<GameManager>();
-            game.GameOver();
+            //game.GameOver();
         }
     }
     public void damage()
@@ -84,20 +88,20 @@ public class Move2 : MonoBehaviour
 
         }
 
-        UImanager UImanage = GameObject.Find("Image111").GetComponent<UImanager>();
-        UImanage.UpdateLives(_lives);
-        if (_lives == 0)
-        {
-            IsAlive = false;
-            restart.gameObject.SetActive(true);
-            GameOver.gameObject.SetActive(true);
-            Time.timeScale = 0;
-            //Destroy(this.gameObject);
+        //UImanager UImanage = GameObject.Find("Image111").GetComponent<UImanager>();
+        //UImanage.UpdateLives(_lives);
+        //if (_lives == 0)
+        //{
+        //    IsAlive = false;
+        //    restart.gameObject.SetActive(true);
+        //    //GameOver.gameObject.SetActive(true);
+        //    Time.timeScale = 0;
+        //    //Destroy(this.gameObject);
 
 
-            GameManager game = GameObject.Find("GameManager").GetComponent<GameManager>();
-            game.GameOver();
-        }
+        //    GameManager game = GameObject.Find("GameManager").GetComponent<GameManager>();
+        //    //game.GameOver();
+        //}
     }
 
     public void score1(int sc)
@@ -109,11 +113,15 @@ public class Move2 : MonoBehaviour
     {
         if (other.CompareTag("Finish"))
         {
-            Time.timeScale = 0;
-            YouWon.gameObject.SetActive(true);
-            SceneManager.LoadScene(5);
+            StartCoroutine(delayScene());
             
         }
+    }
+    private IEnumerator delayScene()
+    {
+        Won.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        SceneManager.LoadScene(5);
     }
     public void shieldactive()
     {
@@ -142,5 +150,28 @@ public class Move2 : MonoBehaviour
         {
             IsJump = false;
         }
+         
+       if (collision.gameObject.tag == "Posion")
+            {  
+            
+               
+            _lives--;
+             Destroy(collision.gameObject);
+            FindObjectOfType<UImanager>().lives(_lives);
+        }
+            if(_lives == 0)
+        {
+            
+            GameOver0();
+        }
+           
+        
     }
+   
+    public void GameOver0()
+    {
+        gameover.SetActive(true);
+        Time.timeScale = 0;
+    }
+
 }
