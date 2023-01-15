@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class Damage : MonoBehaviour
 {
+    float health = 100;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        FindObjectOfType<HealthUI>().BaseDamage();
+        health-=10f;
+        FindObjectOfType<HealthUI>().BaseDamage(health);
     }
 }

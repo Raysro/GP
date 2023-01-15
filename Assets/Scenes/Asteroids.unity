@@ -2678,7 +2678,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '50
+  m_Text: '80
 
 '
 --- !u!222 &916967900
@@ -5531,10 +5531,6 @@ PrefabInstance:
     - target: {fileID: 5882843072637225365, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}
       propertyPath: m_Name
       value: Won
-      objectReference: {fileID: 0}
-    - target: {fileID: 5882843072637225365, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff291e4ce1579f0458ee8eba067993de, type: 3}

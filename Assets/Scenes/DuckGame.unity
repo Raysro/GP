@@ -3018,7 +3018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7f6174afbe45614f9a6b3fa43f1fec9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 1822376203}
+  health: {fileID: 1822376203}
   Pause: {fileID: 1774674048}
   Won: {fileID: 0}
   gameover: {fileID: 2061533055}

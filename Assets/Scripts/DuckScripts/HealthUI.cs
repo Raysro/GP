@@ -6,8 +6,7 @@ using UnityEngine.UI;
 
 public class HealthUI : MonoBehaviour
 {
-    public Scrollbar healthBar;
-    float health = 100;
+    public Scrollbar health;
     public GameObject Pause;
     public GameObject Won;
     public GameObject gameover;
@@ -22,14 +21,13 @@ public class HealthUI : MonoBehaviour
     }
     private void Start()
     {
-        healthBar.size = 1;
+        health.size = 1;
     }
-    public void BaseDamage()
+    public void BaseDamage(float h)
     {
-        health -= 10f;
-        Debug.Log(health);
-        healthBar.size = health*0.01f;
-        if (health <= 0)
+        Debug.Log(h);
+        health.size = h*0.01f;
+        if (h <= 0)
         {
             GameOver();
         }
